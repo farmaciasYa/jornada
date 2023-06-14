@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @font-face {
   font-family: StoreClerk-JNL;
   src: url('../fonts/storeClerk/StoreClerkJNL.woff');
@@ -9,3 +10,16 @@
   src: url('../fonts/storeClerk/StoreClerkSolidJNL.woff');
   font-weight: 400;
 }
+=======
+@font-face {
+  font-family: StoreClerk-JNL;
+  src: url('../fonts/storeClerk/StoreClerkJNL.woff');
+  font-weight: 300;
+}
+
+@font-face {
+  font-family: StoreClerk-JNL;
+  src: url('../fonts/storeClerk/StoreClerkSolidJNL.woff');
+  font-weight: 400;
+}
+>>>>>>> 97a2ff2 (Agregar pagina)
